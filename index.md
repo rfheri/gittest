@@ -118,3 +118,12 @@ id sem consectetuer libero luctus adipiscing.
 Картинки-ссылки:
 
 [![Alt text](https://i.pinimg.com/originals/60/8f/81/608f81d436bb146f0c803f1ad3b0e1d0.jpg)](http://example.com/)
+
+### Горизонтальная черта
+
+`hr` создается тремя звездочками или тремя дефисами.
+
+***
+
+### Ссылки
+Это встроенная [ссылка с title элементом](http://example.com/link "Я ссылка"). Это — [без title](http://example.com/link).
