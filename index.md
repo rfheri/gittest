@@ -97,11 +97,11 @@ id sem consectetuer libero luctus adipiscing.
 
 Картинка без `alt` текста
 
-![](//placehold.it/150x100)
+![](https://i.pinimg.com/originals/60/8f/81/608f81d436bb146f0c803f1ad3b0e1d0.jpg)
 
 Картинка с альтом и тайтлом:
 
-![Alt text](//placehold.it/150x100 "Можно задать title")
+![Alt text](https://i.pinimg.com/originals/60/8f/81/608f81d436bb146f0c803f1ad3b0e1d0.jpg "Можно задать title")
 
 Запомнить просто: синтаксис как у ссылок, только перед открывающей квадратной скобкой ставится восклицательный знак.
 
@@ -111,10 +111,10 @@ id sem consectetuer libero luctus adipiscing.
 ![Картинка][image2]
 ![Картинка][image3]
 
-[image1]: //placehold.it/250x100
-[image2]: //placehold.it/200x100
-[image3]: //placehold.it/150x100
+[image1]: https://i.pinimg.com/originals/60/8f/81/608f81d436bb146f0c803f1ad3b0e1d0.jpg
+[image2]: https://i.pinimg.com/originals/60/8f/81/608f81d436bb146f0c803f1ad3b0e1d0.jpg
+[image3]: https://i.pinimg.com/originals/60/8f/81/608f81d436bb146f0c803f1ad3b0e1d0.jpg
 
 Картинки-ссылки:
 
-[![Alt text](//placehold.it/150x100)](http://example.com/)
+[![Alt text](https://i.pinimg.com/originals/60/8f/81/608f81d436bb146f0c803f1ad3b0e1d0.jpg)](http://example.com/)
